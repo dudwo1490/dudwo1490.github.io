@@ -3,8 +3,8 @@ layout: list
 title: Project
 slug: project
 menu: true
-submenu: false
+submenu: true
 order: 3
 description: >
-  인공지능 프로젝트
+  인공지능 프로젝트 입니다
 ---
