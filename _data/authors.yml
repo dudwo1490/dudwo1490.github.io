@@ -9,7 +9,7 @@ yyj:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   # 자기 소개
   about:             |
-    간단한 자기소개
+    
     저는 데이터분석, 머신러닝, 딥러닝을 공부하고 있습니다.
 
 
