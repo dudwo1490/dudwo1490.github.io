@@ -1,3 +1,12 @@
+---
+layout: post
+title:  데이터분석 chipotle
+subtitle:   chipotle 데이터 분석
+categories: study
+tags: 이것이데이터분석이다
+comments: true
+---
+
 ```python
 # -*- coding: utf-8 -*-
 
