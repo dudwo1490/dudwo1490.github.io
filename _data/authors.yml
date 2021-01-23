@@ -60,7 +60,7 @@ yyj:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    #email:            <email>
+    # email:           <email>
     rss:             https://dudwo1490.github.io/feed.xml
 
 # Another author
