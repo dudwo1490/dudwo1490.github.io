@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: 딥러닝입문
-slug: 딥러닝입문
+title: DataVisualization
+slug: datavisualization
 category: study
 menu: false
 order: 3
