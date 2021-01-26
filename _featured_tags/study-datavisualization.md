@@ -1,6 +1,6 @@
 ---
 layout: tag-blog
-title: DataVisualization
+title: datavisualization
 slug: datavisualization
 category: study
 menu: false

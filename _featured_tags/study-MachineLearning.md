@@ -1,6 +1,6 @@
 ---
 layout: tag-blog
-title: MachineLearningDeepLearning
+title: machineLearningdeepLearning
 slug: machineLearningdeepLearning
 category: study
 menu: false

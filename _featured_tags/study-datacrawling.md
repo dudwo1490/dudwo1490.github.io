@@ -1,6 +1,6 @@
 ---
 layout: tag-blog
-title: Datacrawling
+title: datacrawling
 slug: datacrawling
 category: study
 menu: false
