@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: 이것이데이터분석이다
-slug: 이것이데이터분석이다
+title: 데이터시각화
+slug: 데이터시각화
 category: study
 menu: false
 order: 4
