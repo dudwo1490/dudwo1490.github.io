@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: GITHUBPAGE
-slug: githubpage
+title: tensorflowCertificate
+slug: tensorflowCertificate
 category: study
 menu: false
 order: 1
