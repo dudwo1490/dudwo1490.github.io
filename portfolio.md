@@ -75,7 +75,7 @@ ADSP 데이터준분석가
 워드프로세서 
 
 TensorFlow Developer Certificate
-
+![png](../../../../assets/img/TensorFlowDeveloper.png){: width="400" height="400}
 
 
 
