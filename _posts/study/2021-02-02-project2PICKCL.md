@@ -1,5 +1,10 @@
 ---
-title: PICKCL카드, 대출 추천 프로젝트
+layout: post
+title:  PICKCL카드, 대출 추천 프로젝트
+subtitle:   PICKCL카드, 대출 추천 프로젝트입니다.
+categories: project
+tags: project02
+comments: true
 ---
 
 [PICK웹시연](https://www.youtube.com/watch?v=G8hdLJ1c5rY)   을 클릭하시면 웹시연을 볼 수 있습니다. 
