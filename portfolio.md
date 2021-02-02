@@ -38,6 +38,12 @@ font-weight:bold">
 
 ## Project
 ---
+* **LSTM, Prophet을 이용한 카카오 주식 예측**
+
+미니 프로젝트
+
+LSTM과 Facebook Prophet을 활용한 카카오 데이터 예측
+과 실제값과 비교해보기
 
 * **Django를 이용한 카드, 대출 추천 프로젝트**
 
@@ -56,6 +62,25 @@ kIC캠퍼스 프로젝트
 -Language : Python, Java, R
 
 -FrameWork: Django, Spring, Tensorflow(Keras)
+
+## Certificate
+---
+
+Toeic : 795 
+
+ADSP 데이터준분석가 
+
+컴퓨터활용능력1급 
+
+워드프로세서 
+
+TensorFlow Developer Certificate
+
+
+
+
+
+
 
 
 
