@@ -1,6 +1,6 @@
 ---
-layout: about
 title: Portfolio
+layout: about
 menu: true
 order: 1
 ---
@@ -75,17 +75,5 @@ ADSP 데이터준분석가
 워드프로세서 
 
 TensorFlow Developer Certificate
+[자격증확인](https://www.credential.net/99e1fb30-853c-4409-bc18-d5713dc47042#gs.rueodp)
 ![png](../../../../assets/img/TensorFlowDeveloper.png){: width="400" height="400}
-
-
-
-
-
-
-
-
-
-
-
-
-
